@@ -22,8 +22,8 @@ Each folder in this repository represents a separate project or task completed d
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| Project 1 | Coming soon | Python |
-| Project 2 | Coming soon | Machine Learning |
+| Project 1 | energy_regression | Python |
+| Project 2 | house_price_prediction | Machine Learning |
 
 ## Acknowledgments
 
