@@ -1,6 +1,5 @@
 # Owtana-Internship-Projects
 
-# Owtana Internship Projects
 
 This repository contains the projects and assignments I completed during my internship at **Owtana**.
 
@@ -22,7 +21,7 @@ Each folder in this repository represents a separate project or task completed d
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| Project 1 | energy_regression | Python |
+| Project 1 | energy_regression | Python and Machine Learning |
 | Project 2 | house_price_prediction | Machine Learning |
 
 ## Acknowledgments
