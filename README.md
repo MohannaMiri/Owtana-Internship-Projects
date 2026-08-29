@@ -19,10 +19,18 @@ Each folder in this repository represents a separate project or task completed d
 
 ## Projects
 
+## Projects
+
 | Project | Description | Technologies |
-|---------|-------------|--------------|
-| Project 1 | energy_regression | Python and Machine Learning |
-| Project 2 | house_price_prediction | Machine Learning |
+|---|---|---|
+| Project 1 | energy regression | Python and Machine Learning |
+| Project 2 | house price prediction | Machine Learning |
+| Project 4 | learning about Python libraries | Python |
+| Project 5 | learning about activation functions | Neural Networks |
+| Project 6 | learning about learning rate in NN | Neural Networks |
+| Project 7 | web scraping universities | Python and Web Scraping |
+| Project 8 | ML (KNN and Linear Regression) from scratch with NumPy | Python, NumPy and Machine Learning |
+
 
 ## Acknowledgments
 
